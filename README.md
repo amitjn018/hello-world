@@ -1,2 +1,2 @@
 # hello-world
-Git hub hello world repository
+Hi This is my first commit.
